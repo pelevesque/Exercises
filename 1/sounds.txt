@@ -1,0 +1,6 @@
+0 bwop impulse A_water_drop.                                     166318__deleted_user_2104797__water_drop_4 https://freesound.org/s/166318/ CC0
+1 tik  impulse A_water_drop.                                     349873__matrixxx__water-drop-02            https://freesound.org/s/349873/ CC0 Attribution_text.
+2 tak  impulse Small_Mokugyo_temple_block_from_Kohya-san,_Japan. 607215__jonopodmore__mokugyo               https://freesound.org/s/607215/ CC0
+3 boop impulse Open_glass_bottle_being_popped_a_my_thumb.        751483__dreggsome__glass-bottle-pop        https://freesound.org/s/751483/ CC0
+4 tcha cymbal  A_hi-hat_closing.                                 474845__parret__hihat-closing              https://freesound.org/s/474845/ CC0
+5 tash cymbal  8"_paiste_pst5_splash_cymbal.                     102043__rytmenpinnen__splash8              https://freesound.org/s/102043/ CC0
